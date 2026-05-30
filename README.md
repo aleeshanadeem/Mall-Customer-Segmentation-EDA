@@ -28,7 +28,7 @@ This project performs comprehensive Exploratory Data Analysis on customer demogr
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - Strong correlation between **Annual Income** and **Spending Score**
 - Different customer clusters visible in Income vs Spending plot
