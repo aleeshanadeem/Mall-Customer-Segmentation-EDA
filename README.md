@@ -17,7 +17,7 @@ This project performs comprehensive Exploratory Data Analysis on customer demogr
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
