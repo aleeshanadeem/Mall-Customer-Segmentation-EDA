@@ -6,7 +6,7 @@
 
 ## 📊 Project Overview
 
-This project performs comprehensive Exploratory Data Analysis on customer demographics, annual income, and spending scores. The goal is to uncover meaningful insights for customer segmentation and targeted marketing strategies.
+This project performs a comprehensive Exploratory Data Analysis on customer demographics, annual income, and spending scores. The goal is to uncover meaningful insights for customer segmentation and targeted marketing strategies.
 
 ### Features:
 - Age, Gender, Annual Income, Spending Score
