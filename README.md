@@ -37,7 +37,7 @@ This project performs a comprehensive Exploratory Data Analysis on customer demo
 
 ---
 
-## 📁 Files
+## Files
 
 - `customer-behavior-analysis-eda-visual-insights.ipynb` → Main Analysis Notebook
 - `README.md` → Project Documentation
